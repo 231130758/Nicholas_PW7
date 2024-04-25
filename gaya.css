@@ -1,0 +1,73 @@
+body header h1{
+    background-color: black;
+    color: white;
+}
+.satu{
+    color: blue;
+}
+img{
+    width: 200px;
+}
+.img1{
+    width: 400px;
+    height: 300px;
+}
+.dua{
+    color: aqua;
+}
+.tiga{
+    color: red;
+}
+.empat{
+    color:blueviolet;
+}
+.lima{
+    color: blue;
+}
+.enam{
+    color: aqua;
+}
+.article1{
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100px bold;
+    padding: 50px;
+    margin: 50px;
+    border: 30px green solid;
+}
+.article2{
+    color: blue;
+    background-color: red;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200px bold;
+    padding: 30px;
+    margin: 30px;
+    border: 40px blue solid;
+}
+.poto4{
+    width: 400px;
+    height: 300px;
+}
+.poto2{
+    width: 400px;
+    height: 300px;
+}
+.poto3{
+    width: 400px;
+    height: 300px;
+}
+.poto5{
+    width: 400px;
+    height: 300px;
+}
+.poto6{
+    width: 400px;
+    height: 300px;
+}
+.poto7{
+    width: 400px;
+    height: 300px;
+}
